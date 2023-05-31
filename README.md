@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+  <!-- Contenido de tu archivo README.md -->
+</body>
+</html>
 
 # Portafolio Electrónico
 
