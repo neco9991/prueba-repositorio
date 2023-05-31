@@ -1,9 +1,9 @@
-<div style="background-image: url('[ruta_de_la_imagen.jpg](https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-banner-technology-gradient-geometric-stereo-background-image_277350.jpg)'); background-size: cover; padding: 20px;">
 
 # Portafolio Electrónico
 
 ## Muñoz Mayor Jean Piere
 ## Curso: Desarrollo de Aplicaciones Web
+<div style="background-image: url('[ruta_de_la_imagen.jpg](https://png.pngtree.com/thumb_back/fh260/back_our/20190628/ourmid/pngtree-banner-technology-gradient-geometric-stereo-background-image_277350.jpg)'); background-size: cover; padding: 20px;">
 
 ### Semana 1: Explicación del silabo
 El docente explico correctamen todos los campos de su silabo en el periodo electivo 2023-I
