@@ -1,8 +1,7 @@
-# Portafolio Electrónico
 
 ## Muñoz Mayor Jean Piere
 ## Curso: Desarrollo de Aplicaciones Web
-
+![Foto del estudiante](D:/descargas/Diagram - Untitled (1))
 ### Semana 2: Emmet en Visual Studio Code
 Descripción: En esta semana aprendimos a utilizar Emmet, una herramienta de abreviaciones de código, para agilizar el desarrollo de HTML y CSS en Visual Studio Code.
 
